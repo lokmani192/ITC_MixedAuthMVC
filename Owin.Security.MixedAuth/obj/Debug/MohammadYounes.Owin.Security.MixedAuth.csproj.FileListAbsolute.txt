@@ -1,0 +1,17 @@
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\MohammadYounes.Owin.Security.MixedAuth.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\MohammadYounes.Owin.Security.MixedAuth.pdb
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Owin.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.xml
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\obj\Debug\MohammadYounes.Owin.Security.MixedAuth.csprojResolveAssemblyReference.cache
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\obj\Debug\MohammadYounes.Owin.Security.MixedAuth.csproj.CoreCompileInputs.cache
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\obj\Debug\MohammadYounes.Owin.Security.MixedAuth.dll
+C:\Users\28809\Downloads\OWIN-MixedAuth-master\OWIN-MixedAuth-master\src\MohammadYounes.Owin.Security.MixedAuth\obj\Debug\MohammadYounes.Owin.Security.MixedAuth.pdb
